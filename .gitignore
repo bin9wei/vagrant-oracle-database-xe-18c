@@ -1,5 +1,4 @@
 *.box
 *.rpm
 *.zip
-.env
 .vagrant
